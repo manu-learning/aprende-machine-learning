@@ -1,0 +1,9 @@
+{
+    "include": ["src/**/*"],
+    "exclude": ["dist","public","node_modules"],
+    "compilerOptions": {
+        "target": "es2021",
+        "strict":true,
+        "explainFiles": true
+    }
+}

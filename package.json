@@ -1,0 +1,9 @@
+{
+    "name": "machine-learning",
+    "version": "1.0.0",
+    "description": "",
+    "devDependencies": {
+        "parcel": "^2.3.1",
+        "@parcel/transformer-less": "^2.3.1"
+    }
+}
