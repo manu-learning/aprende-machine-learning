@@ -1,24 +1,19 @@
 RM:=rm -rvf
 
-SOURCE_PATH=src/index.html
-TARGET_PATH=--dist-dir public
-MODULE_BUNDLER_VERSION=2.3.1
-MODULE_BUNDLER=parcel@$(MODULE_BUNDLER_VERSION)
+all: run
 
 r run: package-lock.json
 	$(info Ejecutando app..)
-	@npx $(MODULE_BUNDLER) $(SOURCE_PATH) $(TARGET_PATH)
-
-b build: package-lock.json
-	$(info Construyendo app..)
-	@npx $(MODULE_BUNDLER) build
+	@npx $(MODULE_BUNDLER) --serve --port $(PORT) --input=$(SOURCE_PATH) --output=$(TARGET_PATH)
 
 c clean:
 	$(info Borrando archivos innecesarios..)
 	-@$(RM) {node_modules,.log,package-lock.json}
-	-@$(RM) {.parcel-cache,public,dist}
+	-@$(RM) {public,dist}
 
 package-lock.json: package.json
 	@npm install
 
-.PHONY: r run b build c clean
+.PHONY: r run b build c clean all
+
+-include .env

@@ -1,0 +1,5 @@
+* Fake Data Generators
+   1. [[https://json-generator.com/][Json Generator (json-generator.com)]]
+* Referencias
+** Referencias Oficiales
+   1. [[https://developers.google.com/machine-learning/glossary/][Machine Learning Glossary (developers.google.com)]]
