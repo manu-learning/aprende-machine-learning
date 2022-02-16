@@ -4,6 +4,8 @@
     "compilerOptions": {
         "target": "es2021",
         "strict":true,
-        "explainFiles": true
+        "explainFiles": true,
+        "sourceMap": true,
+        "module":"commonjs"
     }
 }

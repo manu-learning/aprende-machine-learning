@@ -1,0 +1,541 @@
+[
+  {
+    "index": 0,
+    "nombre": "Marks Clark",
+    "altura": 1.64,
+    "peso": 78,
+    "edad": 39
+  },
+  {
+    "index": 1,
+    "nombre": "Polly Fuller",
+    "altura": 1.64,
+    "peso": 75,
+    "edad": 22
+  },
+  {
+    "index": 2,
+    "nombre": "Ashlee Lawson",
+    "altura": 1.69,
+    "peso": 66,
+    "edad": 38
+  },
+  {
+    "index": 3,
+    "nombre": "Sheri Sweeney",
+    "altura": 1.73,
+    "peso": 64,
+    "edad": 34
+  },
+  {
+    "index": 4,
+    "nombre": "Pope Rosa",
+    "altura": 1.87,
+    "peso": 78,
+    "edad": 35
+  },
+  {
+    "index": 5,
+    "nombre": "Rosetta Sloan",
+    "altura": 1.77,
+    "peso": 82,
+    "edad": 38
+  },
+  {
+    "index": 6,
+    "nombre": "Frankie Hammond",
+    "altura": 1.61,
+    "peso": 69,
+    "edad": 38
+  },
+  {
+    "index": 7,
+    "nombre": "Douglas Harrell",
+    "altura": 1.74,
+    "peso": 76,
+    "edad": 36
+  },
+  {
+    "index": 8,
+    "nombre": "Maryellen Ray",
+    "altura": 1.87,
+    "peso": 77,
+    "edad": 20
+  },
+  {
+    "index": 9,
+    "nombre": "Faith Schultz",
+    "altura": 1.86,
+    "peso": 83,
+    "edad": 31
+  },
+  {
+    "index": 10,
+    "nombre": "Stark Fisher",
+    "altura": 1.73,
+    "peso": 62,
+    "edad": 32
+  },
+  {
+    "index": 11,
+    "nombre": "Joyce Graves",
+    "altura": 1.65,
+    "peso": 64,
+    "edad": 26
+  },
+  {
+    "index": 12,
+    "nombre": "Solomon Mcclain",
+    "altura": 1.69,
+    "peso": 67,
+    "edad": 31
+  },
+  {
+    "index": 13,
+    "nombre": "Liliana Adams",
+    "altura": 1.79,
+    "peso": 74,
+    "edad": 30
+  },
+  {
+    "index": 14,
+    "nombre": "Jeanine Terry",
+    "altura": 1.85,
+    "peso": 74,
+    "edad": 32
+  },
+  {
+    "index": 15,
+    "nombre": "Marcia Kirk",
+    "altura": 1.66,
+    "peso": 73,
+    "edad": 35
+  },
+  {
+    "index": 16,
+    "nombre": "Figueroa Jenkins",
+    "altura": 1.67,
+    "peso": 89,
+    "edad": 20
+  },
+  {
+    "index": 17,
+    "nombre": "Miles Barker",
+    "altura": 1.7,
+    "peso": 87,
+    "edad": 25
+  },
+  {
+    "index": 18,
+    "nombre": "Daugherty Mcleod",
+    "altura": 1.67,
+    "peso": 87,
+    "edad": 36
+  },
+  {
+    "index": 19,
+    "nombre": "Page Travis",
+    "altura": 1.77,
+    "peso": 77,
+    "edad": 38
+  },
+  {
+    "index": 20,
+    "nombre": "Stuart Watts",
+    "altura": 1.81,
+    "peso": 87,
+    "edad": 34
+  },
+  {
+    "index": 21,
+    "nombre": "Mcpherson Estrada",
+    "altura": 1.86,
+    "peso": 67,
+    "edad": 29
+  },
+  {
+    "index": 22,
+    "nombre": "Tran Simpson",
+    "altura": 1.84,
+    "peso": 84,
+    "edad": 31
+  },
+  {
+    "index": 23,
+    "nombre": "Krista Lancaster",
+    "altura": 1.73,
+    "peso": 70,
+    "edad": 37
+  },
+  {
+    "index": 24,
+    "nombre": "Dorothea Hinton",
+    "altura": 1.88,
+    "peso": 77,
+    "edad": 35
+  },
+  {
+    "index": 25,
+    "nombre": "Nieves Pierce",
+    "altura": 1.81,
+    "peso": 77,
+    "edad": 31
+  },
+  {
+    "index": 26,
+    "nombre": "Michelle Hill",
+    "altura": 1.76,
+    "peso": 73,
+    "edad": 37
+  },
+  {
+    "index": 27,
+    "nombre": "Rowena Franco",
+    "altura": 1.89,
+    "peso": 64,
+    "edad": 24
+  },
+  {
+    "index": 28,
+    "nombre": "Chandler Herring",
+    "altura": 1.82,
+    "peso": 82,
+    "edad": 25
+  },
+  {
+    "index": 29,
+    "nombre": "Kirby Valdez",
+    "altura": 1.64,
+    "peso": 74,
+    "edad": 40
+  },
+  {
+    "index": 30,
+    "nombre": "Patrick Elliott",
+    "altura": 1.76,
+    "peso": 63,
+    "edad": 21
+  },
+  {
+    "index": 31,
+    "nombre": "Cornelia Kidd",
+    "altura": 1.71,
+    "peso": 65,
+    "edad": 26
+  },
+  {
+    "index": 32,
+    "nombre": "Kristin Cobb",
+    "altura": 1.69,
+    "peso": 83,
+    "edad": 39
+  },
+  {
+    "index": 33,
+    "nombre": "Allie Benson",
+    "altura": 1.71,
+    "peso": 80,
+    "edad": 26
+  },
+  {
+    "index": 34,
+    "nombre": "Della Britt",
+    "altura": 1.73,
+    "peso": 73,
+    "edad": 20
+  },
+  {
+    "index": 35,
+    "nombre": "Debora Walker",
+    "altura": 1.76,
+    "peso": 88,
+    "edad": 24
+  },
+  {
+    "index": 36,
+    "nombre": "Doreen Sellers",
+    "altura": 1.72,
+    "peso": 80,
+    "edad": 34
+  },
+  {
+    "index": 37,
+    "nombre": "Olga Cervantes",
+    "altura": 1.67,
+    "peso": 77,
+    "edad": 22
+  },
+  {
+    "index": 38,
+    "nombre": "Conway Craig",
+    "altura": 1.87,
+    "peso": 60,
+    "edad": 27
+  },
+  {
+    "index": 39,
+    "nombre": "Janie Stevenson",
+    "altura": 1.9,
+    "peso": 60,
+    "edad": 30
+  },
+  {
+    "index": 40,
+    "nombre": "Goldie Reynolds",
+    "altura": 1.68,
+    "peso": 71,
+    "edad": 31
+  },
+  {
+    "index": 41,
+    "nombre": "Byers Blanchard",
+    "altura": 1.62,
+    "peso": 85,
+    "edad": 30
+  },
+  {
+    "index": 42,
+    "nombre": "Shannon Garrison",
+    "altura": 1.68,
+    "peso": 81,
+    "edad": 24
+  },
+  {
+    "index": 43,
+    "nombre": "Jackson Joseph",
+    "altura": 1.78,
+    "peso": 81,
+    "edad": 27
+  },
+  {
+    "index": 44,
+    "nombre": "Wilson Foster",
+    "altura": 1.71,
+    "peso": 60,
+    "edad": 24
+  },
+  {
+    "index": 45,
+    "nombre": "Jordan Burgess",
+    "altura": 1.64,
+    "peso": 84,
+    "edad": 23
+  },
+  {
+    "index": 46,
+    "nombre": "Marci Stone",
+    "altura": 1.65,
+    "peso": 80,
+    "edad": 32
+  },
+  {
+    "index": 47,
+    "nombre": "Chavez Sykes",
+    "altura": 1.67,
+    "peso": 74,
+    "edad": 23
+  },
+  {
+    "index": 48,
+    "nombre": "Valeria Fleming",
+    "altura": 1.63,
+    "peso": 83,
+    "edad": 34
+  },
+  {
+    "index": 49,
+    "nombre": "Pam Workman",
+    "altura": 1.69,
+    "peso": 78,
+    "edad": 31
+  },
+  {
+    "index": 50,
+    "nombre": "Maryann Rutledge",
+    "altura": 1.84,
+    "peso": 66,
+    "edad": 34
+  },
+  {
+    "index": 51,
+    "nombre": "Dale Powers",
+    "altura": 1.9,
+    "peso": 80,
+    "edad": 34
+  },
+  {
+    "index": 52,
+    "nombre": "Christian Maddox",
+    "altura": 1.62,
+    "peso": 88,
+    "edad": 35
+  },
+  {
+    "index": 53,
+    "nombre": "Pace Case",
+    "altura": 1.76,
+    "peso": 73,
+    "edad": 38
+  },
+  {
+    "index": 54,
+    "nombre": "Augusta Boone",
+    "altura": 1.84,
+    "peso": 89,
+    "edad": 38
+  },
+  {
+    "index": 55,
+    "nombre": "Jarvis Tanner",
+    "altura": 1.86,
+    "peso": 62,
+    "edad": 21
+  },
+  {
+    "index": 56,
+    "nombre": "Benton West",
+    "altura": 1.63,
+    "peso": 71,
+    "edad": 21
+  },
+  {
+    "index": 57,
+    "nombre": "Terry Nunez",
+    "altura": 1.77,
+    "peso": 85,
+    "edad": 20
+  },
+  {
+    "index": 58,
+    "nombre": "Mills Garrett",
+    "altura": 1.9,
+    "peso": 63,
+    "edad": 30
+  },
+  {
+    "index": 59,
+    "nombre": "Lorena Kennedy",
+    "altura": 1.79,
+    "peso": 76,
+    "edad": 34
+  },
+  {
+    "index": 60,
+    "nombre": "Joseph Zimmerman",
+    "altura": 1.9,
+    "peso": 87,
+    "edad": 29
+  },
+  {
+    "index": 61,
+    "nombre": "Gretchen Buckner",
+    "altura": 1.78,
+    "peso": 68,
+    "edad": 33
+  },
+  {
+    "index": 62,
+    "nombre": "Rosalind Wilkerson",
+    "altura": 1.76,
+    "peso": 75,
+    "edad": 23
+  },
+  {
+    "index": 63,
+    "nombre": "Harmon Chang",
+    "altura": 1.65,
+    "peso": 85,
+    "edad": 34
+  },
+  {
+    "index": 64,
+    "nombre": "Alisa Wall",
+    "altura": 1.88,
+    "peso": 65,
+    "edad": 32
+  },
+  {
+    "index": 65,
+    "nombre": "Audra French",
+    "altura": 1.77,
+    "peso": 71,
+    "edad": 36
+  },
+  {
+    "index": 66,
+    "nombre": "Caroline Franklin",
+    "altura": 1.63,
+    "peso": 72,
+    "edad": 35
+  },
+  {
+    "index": 67,
+    "nombre": "Gill Houston",
+    "altura": 1.81,
+    "peso": 70,
+    "edad": 32
+  },
+  {
+    "index": 68,
+    "nombre": "Denise Briggs",
+    "altura": 1.63,
+    "peso": 74,
+    "edad": 24
+  },
+  {
+    "index": 69,
+    "nombre": "Marjorie Sharp",
+    "altura": 1.83,
+    "peso": 65,
+    "edad": 30
+  },
+  {
+    "index": 70,
+    "nombre": "Hodge Lynn",
+    "altura": 1.71,
+    "peso": 77,
+    "edad": 34
+  },
+  {
+    "index": 71,
+    "nombre": "Annette Hoffman",
+    "altura": 1.65,
+    "peso": 88,
+    "edad": 23
+  },
+  {
+    "index": 72,
+    "nombre": "Cotton Bradford",
+    "altura": 1.77,
+    "peso": 79,
+    "edad": 34
+  },
+  {
+    "index": 73,
+    "nombre": "Melissa Blankenship",
+    "altura": 1.85,
+    "peso": 79,
+    "edad": 39
+  },
+  {
+    "index": 74,
+    "nombre": "Warren Robertson",
+    "altura": 1.88,
+    "peso": 67,
+    "edad": 35
+  },
+  {
+    "index": 75,
+    "nombre": "Hahn Hayden",
+    "altura": 1.89,
+    "peso": 63,
+    "edad": 20
+  },
+  {
+    "index": 76,
+    "nombre": "Marisa Berg",
+    "altura": 1.71,
+    "peso": 86,
+    "edad": 31
+  }
+]
