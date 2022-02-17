@@ -1,5 +1,31 @@
 * Fake Data Generators
    1. [[https://json-generator.com/][Json Generator (json-generator.com)]]
+* Tensor como Estructura de Datos
+** Referencias
+*** Referencias Oficiales
+   1. [[https://developers.google.com/machine-learning/glossary/#tensor][Meaning of Tensor (developers.google.com)]]
+*** Referencias ExtraOficiales
+   1. [[https://programmerclick.com/article/27691552733/][Estructura de datos Tensor y operaciones relacionadas (programmerclick.com)]]
+   2. [[https://programmerclick.com/article/58421403679/][Tensor conceptos generales (programmerclick.com)]]
+* Normalización de datos
+** Referencias
+*** Referencias Oficiales
+   1. [[https://developers.google.com/machine-learning/data-prep/transform/normalization][Normalization - Data preparation for Machine learning (developers.google.com)]]
+   2. [[https://en.wikipedia.org/wiki/Feature_scaling#Rescaling_(min-max_normalization)][Min-Max Normalization (wikipedia.org)]]
+*** Referencias ExtraOficiales
+   1. [[https://programmerclick.com/article/6822416551/][Estandarización y normalización del preprocesamiento de datos (programmerclick.com)]]
+* Métricas
+** Referencias
+*** Referencias Oficiales
+   1. [[https://developers.google.com/machine-learning/glossary/#MSE][Meaning of MSE, Machine Learning Glossary (developers.google.com)]]
+* Labels - Datos Etiquetados
+** Referencias
+*** Referencias Oficiales
+   1. [[https://developers.google.com/machine-learning/glossary/#label][Meaning of Label, Machine Learning Glossary (developers.google.com)]]
+* Funciones de pérdida
+*** Referencias Oficiales
+   1. [[https://developers.google.com/machine-learning/glossary/#loss][Meaning of Loss, Machine Learning Glossary (developers.google.com)]]
 * Referencias
 ** Referencias Oficiales
-   1. [[https://developers.google.com/machine-learning/glossary/][Machine Learning Glossary (developers.google.com)]]
+   1. [[https://js.tensorflow.org/api_vis/1.5.1/][Vis API (tensorflow.org)]]
+   2. [[https://developers.google.com/machine-learning/glossary/][Machine Learning Glossary (developers.google.com)]]
